@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/../springcloud/eureka-server2/eureka-server2.iml" filepath="$PROJECT_DIR$/../springcloud/eureka-server2/eureka-server2.iml" />
       <module fileurl="file://$PROJECT_DIR$/../springcloud/serice-feign/serice-feign.iml" filepath="$PROJECT_DIR$/../springcloud/serice-feign/serice-feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/../springcloud/service-ribbon/service-ribbon.iml" filepath="$PROJECT_DIR$/../springcloud/service-ribbon/service-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springcloud/service-zuul/service-zuul.iml" filepath="$PROJECT_DIR$/../springcloud/service-zuul/service-zuul.iml" />
       <module fileurl="file://$PROJECT_DIR$/../springcloud/springcloud.iml" filepath="$PROJECT_DIR$/../springcloud/springcloud.iml" />
     </modules>
   </component>
